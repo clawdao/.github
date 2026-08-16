@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-> **传统企业的做法是：每遇到一个问题，就买一个 SaaS。SaaS 越多，月租越贵，数据越散，互不打通。ClawDao 的做法完全不同——它不是一个一个买工具，而是在你电脑上「长」出一套系统。**
+> **ClawDao 是在你电脑上「长」出的一套系统。**
 
 想象一下：
 - 想搭客服？ClawDao 就「长」出一个 AI 客服
